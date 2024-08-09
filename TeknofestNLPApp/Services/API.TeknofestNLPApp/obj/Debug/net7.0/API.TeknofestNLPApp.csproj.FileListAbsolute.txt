@@ -1,0 +1,78 @@
+E:\Trendyol_Quality_Paper\TeknofestNLPApp\Services\API.TeknofestNLPApp\bin\Debug\net7.0\appsettings.Development.json
+E:\Trendyol_Quality_Paper\TeknofestNLPApp\Services\API.TeknofestNLPApp\bin\Debug\net7.0\appsettings.json
+E:\Trendyol_Quality_Paper\TeknofestNLPApp\Services\API.TeknofestNLPApp\bin\Debug\net7.0\API.TeknofestNLPApp.exe
+E:\Trendyol_Quality_Paper\TeknofestNLPApp\Services\API.TeknofestNLPApp\bin\Debug\net7.0\API.TeknofestNLPApp.deps.json
+E:\Trendyol_Quality_Paper\TeknofestNLPApp\Services\API.TeknofestNLPApp\bin\Debug\net7.0\API.TeknofestNLPApp.runtimeconfig.json
+E:\Trendyol_Quality_Paper\TeknofestNLPApp\Services\API.TeknofestNLPApp\bin\Debug\net7.0\API.TeknofestNLPApp.dll
+E:\Trendyol_Quality_Paper\TeknofestNLPApp\Services\API.TeknofestNLPApp\bin\Debug\net7.0\API.TeknofestNLPApp.pdb
+E:\Trendyol_Quality_Paper\TeknofestNLPApp\Services\API.TeknofestNLPApp\bin\Debug\net7.0\HtmlAgilityPack.dll
+E:\Trendyol_Quality_Paper\TeknofestNLPApp\Services\API.TeknofestNLPApp\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Trendyol_Quality_Paper\TeknofestNLPApp\Services\API.TeknofestNLPApp\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Trendyol_Quality_Paper\TeknofestNLPApp\Services\API.TeknofestNLPApp\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\Trendyol_Quality_Paper\TeknofestNLPApp\Services\API.TeknofestNLPApp\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Trendyol_Quality_Paper\TeknofestNLPApp\Services\API.TeknofestNLPApp\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Trendyol_Quality_Paper\TeknofestNLPApp\Services\API.TeknofestNLPApp\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Trendyol_Quality_Paper\TeknofestNLPApp\Services\API.TeknofestNLPApp\obj\Debug\net7.0\API.TeknofestNLPApp.csproj.AssemblyReference.cache
+E:\Trendyol_Quality_Paper\TeknofestNLPApp\Services\API.TeknofestNLPApp\obj\Debug\net7.0\API.TeknofestNLPApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Trendyol_Quality_Paper\TeknofestNLPApp\Services\API.TeknofestNLPApp\obj\Debug\net7.0\API.TeknofestNLPApp.AssemblyInfoInputs.cache
+E:\Trendyol_Quality_Paper\TeknofestNLPApp\Services\API.TeknofestNLPApp\obj\Debug\net7.0\API.TeknofestNLPApp.AssemblyInfo.cs
+E:\Trendyol_Quality_Paper\TeknofestNLPApp\Services\API.TeknofestNLPApp\obj\Debug\net7.0\API.TeknofestNLPApp.csproj.CoreCompileInputs.cache
+E:\Trendyol_Quality_Paper\TeknofestNLPApp\Services\API.TeknofestNLPApp\obj\Debug\net7.0\API.TeknofestNLPApp.MvcApplicationPartsAssemblyInfo.cs
+E:\Trendyol_Quality_Paper\TeknofestNLPApp\Services\API.TeknofestNLPApp\obj\Debug\net7.0\API.TeknofestNLPApp.MvcApplicationPartsAssemblyInfo.cache
+E:\Trendyol_Quality_Paper\TeknofestNLPApp\Services\API.TeknofestNLPApp\obj\Debug\net7.0\staticwebassets\msbuild.API.TeknofestNLPApp.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Trendyol_Quality_Paper\TeknofestNLPApp\Services\API.TeknofestNLPApp\obj\Debug\net7.0\staticwebassets\msbuild.build.API.TeknofestNLPApp.props
+E:\Trendyol_Quality_Paper\TeknofestNLPApp\Services\API.TeknofestNLPApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.API.TeknofestNLPApp.props
+E:\Trendyol_Quality_Paper\TeknofestNLPApp\Services\API.TeknofestNLPApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.API.TeknofestNLPApp.props
+E:\Trendyol_Quality_Paper\TeknofestNLPApp\Services\API.TeknofestNLPApp\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Trendyol_Quality_Paper\TeknofestNLPApp\Services\API.TeknofestNLPApp\obj\Debug\net7.0\staticwebassets.build.json
+E:\Trendyol_Quality_Paper\TeknofestNLPApp\Services\API.TeknofestNLPApp\obj\Debug\net7.0\staticwebassets.development.json
+E:\Trendyol_Quality_Paper\TeknofestNLPApp\Services\API.TeknofestNLPApp\obj\Debug\net7.0\scopedcss\bundle\API.TeknofestNLPApp.styles.css
+E:\Trendyol_Quality_Paper\TeknofestNLPApp\Services\API.TeknofestNLPApp\obj\Debug\net7.0\API.TeknofestNLPApp.csproj.CopyComplete
+E:\Trendyol_Quality_Paper\TeknofestNLPApp\Services\API.TeknofestNLPApp\obj\Debug\net7.0\API.TeknofestNLPApp.dll
+E:\Trendyol_Quality_Paper\TeknofestNLPApp\Services\API.TeknofestNLPApp\obj\Debug\net7.0\refint\API.TeknofestNLPApp.dll
+E:\Trendyol_Quality_Paper\TeknofestNLPApp\Services\API.TeknofestNLPApp\obj\Debug\net7.0\API.TeknofestNLPApp.pdb
+E:\Trendyol_Quality_Paper\TeknofestNLPApp\Services\API.TeknofestNLPApp\obj\Debug\net7.0\API.TeknofestNLPApp.genruntimeconfig.cache
+E:\Trendyol_Quality_Paper\TeknofestNLPApp\Services\API.TeknofestNLPApp\obj\Debug\net7.0\ref\API.TeknofestNLPApp.dll
+E:\Trendyol_Quality_Paper\TeknofestNLPApp\Services\API.TeknofestNLPApp\bin\Debug\net7.0\selenium-manager\linux\selenium-manager
+E:\Trendyol_Quality_Paper\TeknofestNLPApp\Services\API.TeknofestNLPApp\bin\Debug\net7.0\selenium-manager\macos\selenium-manager
+E:\Trendyol_Quality_Paper\TeknofestNLPApp\Services\API.TeknofestNLPApp\bin\Debug\net7.0\selenium-manager\windows\selenium-manager.exe
+E:\Trendyol_Quality_Paper\TeknofestNLPApp\Services\API.TeknofestNLPApp\bin\Debug\net7.0\WebDriver.dll
+E:\Competition\2024\Teknofest NLP\TeknofestNLPApp\Services\API.TeknofestNLPApp\bin\Debug\net7.0\appsettings.Development.json
+E:\Competition\2024\Teknofest NLP\TeknofestNLPApp\Services\API.TeknofestNLPApp\bin\Debug\net7.0\appsettings.json
+E:\Competition\2024\Teknofest NLP\TeknofestNLPApp\Services\API.TeknofestNLPApp\bin\Debug\net7.0\selenium-manager\linux\selenium-manager
+E:\Competition\2024\Teknofest NLP\TeknofestNLPApp\Services\API.TeknofestNLPApp\bin\Debug\net7.0\selenium-manager\macos\selenium-manager
+E:\Competition\2024\Teknofest NLP\TeknofestNLPApp\Services\API.TeknofestNLPApp\bin\Debug\net7.0\selenium-manager\windows\selenium-manager.exe
+E:\Competition\2024\Teknofest NLP\TeknofestNLPApp\Services\API.TeknofestNLPApp\bin\Debug\net7.0\API.TeknofestNLPApp.exe
+E:\Competition\2024\Teknofest NLP\TeknofestNLPApp\Services\API.TeknofestNLPApp\bin\Debug\net7.0\API.TeknofestNLPApp.deps.json
+E:\Competition\2024\Teknofest NLP\TeknofestNLPApp\Services\API.TeknofestNLPApp\bin\Debug\net7.0\API.TeknofestNLPApp.runtimeconfig.json
+E:\Competition\2024\Teknofest NLP\TeknofestNLPApp\Services\API.TeknofestNLPApp\bin\Debug\net7.0\API.TeknofestNLPApp.dll
+E:\Competition\2024\Teknofest NLP\TeknofestNLPApp\Services\API.TeknofestNLPApp\bin\Debug\net7.0\API.TeknofestNLPApp.pdb
+E:\Competition\2024\Teknofest NLP\TeknofestNLPApp\Services\API.TeknofestNLPApp\bin\Debug\net7.0\HtmlAgilityPack.dll
+E:\Competition\2024\Teknofest NLP\TeknofestNLPApp\Services\API.TeknofestNLPApp\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Competition\2024\Teknofest NLP\TeknofestNLPApp\Services\API.TeknofestNLPApp\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Competition\2024\Teknofest NLP\TeknofestNLPApp\Services\API.TeknofestNLPApp\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\Competition\2024\Teknofest NLP\TeknofestNLPApp\Services\API.TeknofestNLPApp\bin\Debug\net7.0\WebDriver.dll
+E:\Competition\2024\Teknofest NLP\TeknofestNLPApp\Services\API.TeknofestNLPApp\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Competition\2024\Teknofest NLP\TeknofestNLPApp\Services\API.TeknofestNLPApp\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Competition\2024\Teknofest NLP\TeknofestNLPApp\Services\API.TeknofestNLPApp\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Competition\2024\Teknofest NLP\TeknofestNLPApp\Services\API.TeknofestNLPApp\obj\Debug\net7.0\API.TeknofestNLPApp.csproj.AssemblyReference.cache
+E:\Competition\2024\Teknofest NLP\TeknofestNLPApp\Services\API.TeknofestNLPApp\obj\Debug\net7.0\API.TeknofestNLPApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Competition\2024\Teknofest NLP\TeknofestNLPApp\Services\API.TeknofestNLPApp\obj\Debug\net7.0\API.TeknofestNLPApp.AssemblyInfoInputs.cache
+E:\Competition\2024\Teknofest NLP\TeknofestNLPApp\Services\API.TeknofestNLPApp\obj\Debug\net7.0\API.TeknofestNLPApp.AssemblyInfo.cs
+E:\Competition\2024\Teknofest NLP\TeknofestNLPApp\Services\API.TeknofestNLPApp\obj\Debug\net7.0\API.TeknofestNLPApp.csproj.CoreCompileInputs.cache
+E:\Competition\2024\Teknofest NLP\TeknofestNLPApp\Services\API.TeknofestNLPApp\obj\Debug\net7.0\API.TeknofestNLPApp.MvcApplicationPartsAssemblyInfo.cs
+E:\Competition\2024\Teknofest NLP\TeknofestNLPApp\Services\API.TeknofestNLPApp\obj\Debug\net7.0\API.TeknofestNLPApp.MvcApplicationPartsAssemblyInfo.cache
+E:\Competition\2024\Teknofest NLP\TeknofestNLPApp\Services\API.TeknofestNLPApp\obj\Debug\net7.0\staticwebassets\msbuild.API.TeknofestNLPApp.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Competition\2024\Teknofest NLP\TeknofestNLPApp\Services\API.TeknofestNLPApp\obj\Debug\net7.0\staticwebassets\msbuild.build.API.TeknofestNLPApp.props
+E:\Competition\2024\Teknofest NLP\TeknofestNLPApp\Services\API.TeknofestNLPApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.API.TeknofestNLPApp.props
+E:\Competition\2024\Teknofest NLP\TeknofestNLPApp\Services\API.TeknofestNLPApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.API.TeknofestNLPApp.props
+E:\Competition\2024\Teknofest NLP\TeknofestNLPApp\Services\API.TeknofestNLPApp\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Competition\2024\Teknofest NLP\TeknofestNLPApp\Services\API.TeknofestNLPApp\obj\Debug\net7.0\staticwebassets.build.json
+E:\Competition\2024\Teknofest NLP\TeknofestNLPApp\Services\API.TeknofestNLPApp\obj\Debug\net7.0\staticwebassets.development.json
+E:\Competition\2024\Teknofest NLP\TeknofestNLPApp\Services\API.TeknofestNLPApp\obj\Debug\net7.0\scopedcss\bundle\API.TeknofestNLPApp.styles.css
+E:\Competition\2024\Teknofest NLP\TeknofestNLPApp\Services\API.TeknofestNLPApp\obj\Debug\net7.0\API.TeknofestNLPApp.csproj.CopyComplete
+E:\Competition\2024\Teknofest NLP\TeknofestNLPApp\Services\API.TeknofestNLPApp\obj\Debug\net7.0\API.TeknofestNLPApp.dll
+E:\Competition\2024\Teknofest NLP\TeknofestNLPApp\Services\API.TeknofestNLPApp\obj\Debug\net7.0\refint\API.TeknofestNLPApp.dll
+E:\Competition\2024\Teknofest NLP\TeknofestNLPApp\Services\API.TeknofestNLPApp\obj\Debug\net7.0\API.TeknofestNLPApp.pdb
+E:\Competition\2024\Teknofest NLP\TeknofestNLPApp\Services\API.TeknofestNLPApp\obj\Debug\net7.0\API.TeknofestNLPApp.genruntimeconfig.cache
+E:\Competition\2024\Teknofest NLP\TeknofestNLPApp\Services\API.TeknofestNLPApp\obj\Debug\net7.0\ref\API.TeknofestNLPApp.dll

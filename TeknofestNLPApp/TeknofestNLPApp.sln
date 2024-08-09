@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{147C1433-E031-4EDE-B04A-BBE9BE92CB5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API.TeknofestNLPApp", "Services\API.TeknofestNLPApp\API.TeknofestNLPApp.csproj", "{EB32BE95-FEE0-4DB3-8C92-9F646A635B96}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WebUI", "WebUI", "{F65F9314-1069-475E-8C85-98E0DFBDA130}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "webui.teknofestnlpApp", "WebUI\WebUI.TeknofestNLPApp\webui.teknofestnlpApp.esproj", "{C2A30917-05E0-4005-B34F-141F84F4A067}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB32BE95-FEE0-4DB3-8C92-9F646A635B96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB32BE95-FEE0-4DB3-8C92-9F646A635B96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB32BE95-FEE0-4DB3-8C92-9F646A635B96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB32BE95-FEE0-4DB3-8C92-9F646A635B96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2A30917-05E0-4005-B34F-141F84F4A067}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2A30917-05E0-4005-B34F-141F84F4A067}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2A30917-05E0-4005-B34F-141F84F4A067}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C2A30917-05E0-4005-B34F-141F84F4A067}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2A30917-05E0-4005-B34F-141F84F4A067}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2A30917-05E0-4005-B34F-141F84F4A067}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EB32BE95-FEE0-4DB3-8C92-9F646A635B96} = {147C1433-E031-4EDE-B04A-BBE9BE92CB5F}
+		{C2A30917-05E0-4005-B34F-141F84F4A067} = {F65F9314-1069-475E-8C85-98E0DFBDA130}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85E3DAB3-5FFD-4E8E-9A83-D5682A5984DA}
+	EndGlobalSection
+EndGlobal
