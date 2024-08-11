@@ -106,7 +106,7 @@ Visual studio code üzerinden "TeknofestNLPApp\WebUI\webui.teknofestnlpapp" dosy
 
 ### Kurulum
 
-Modeli indirme linki:  [https://drive.google.com/file/d/1DU5pr-G6OVz4OyrdKOU_pjYYGjipE17B/view?usp=sharing](https://drive.google.com/file/d/1DU5pr-G6OVz4OyrdKOU_pjYYGjipE17B/view?usp=sharing)
+Modeli indirme linki:  [https://drive.google.com/file/d/1fA9AMHndH-jg0C0VXq7nOnFtiPpeF4P_/view?usp=drive_link](https://drive.google.com/file/d/1fA9AMHndH-jg0C0VXq7nOnFtiPpeF4P_/view?usp=drive_link)
 
 İndirilen model "App.py" dosyanın olduğu dizine taşınır. App.py dosyası Spyder IDE' si üzerinden çalıştırılmalıdır.
 
@@ -119,6 +119,10 @@ Modeli indirme linki:  [https://drive.google.com/file/d/1DU5pr-G6OVz4OyrdKOU_pjY
 
 Link: [https://docs.google.com/spreadsheets/d/1F74LQrIvXK_CbEblECUi8aJCLx9T0UfM/edit?usp=sharing&ouid=118184109516853655766&rtpof=true&sd=true](https://docs.google.com/spreadsheets/d/1F74LQrIvXK_CbEblECUi8aJCLx9T0UfM/edit?usp=sharing&ouid=118184109516853655766&rtpof=true&sd=true)
 
+
+## Sunum
+
+Link: [https://docs.google.com/presentation/d/1Y8TyxOhKLMXDwB_T94uUf5SXo8BiUSt0/edit?usp=sharing&ouid=118184109516853655766&rtpof=true&sd=true](https://docs.google.com/presentation/d/1Y8TyxOhKLMXDwB_T94uUf5SXo8BiUSt0/edit?usp=sharing&ouid=118184109516853655766&rtpof=true&sd=true)
 
 <!-- ROADMAP -->
 ## Takım Üyeleri
