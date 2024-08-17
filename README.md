@@ -89,12 +89,7 @@ Modeli indirme linki:  [https://drive.google.com/file/d/1fA9AMHndH-jg0C0VXq7nOnF
 
 ## Veri Seti
 
-Link: [https://docs.google.com/spreadsheets/d/1F74LQrIvXK_CbEblECUi8aJCLx9T0UfM/edit?usp=sharing&ouid=118184109516853655766&rtpof=true&sd=true](https://docs.google.com/spreadsheets/d/1F74LQrIvXK_CbEblECUi8aJCLx9T0UfM/edit?usp=sharing&ouid=118184109516853655766&rtpof=true&sd=true)
-
-
-## Sunum
-
-Link: [https://docs.google.com/presentation/d/1Y8TyxOhKLMXDwB_T94uUf5SXo8BiUSt0/edit?usp=sharing&ouid=118184109516853655766&rtpof=true&sd=true](https://docs.google.com/presentation/d/1Y8TyxOhKLMXDwB_T94uUf5SXo8BiUSt0/edit?usp=sharing&ouid=118184109516853655766&rtpof=true&sd=true)
+Link:https://github.com/imayda/turkish-consumer-reviews-dataset
 
 <!-- ROADMAP -->
 ## Takım Üyeleri
