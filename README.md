@@ -17,34 +17,6 @@
 
 
 
-<!-- ABOUT THE PROJECT -->
-## Proje Hakkında
-
-Alışveriş sitelerinde kullanıcı yorumlarının değerlendirilmesi ve filtrelenmesine odaklanmaktadır. Pek çok kullanıcı, ürün yorumlarının çoğunun nitelikli bir bilgi içermediğinden ve bu nedenle karar verme süreçlerinde gereksiz zaman kaybına yol açtığından şikayet etmektedir.
-
-  # Ana Tema
-Kullanıcıların alışveriş sitelerindeki yorumlar arasında kaybolmadan, ürünler hakkında daha hızlı ve etkin bir şekilde karar verebilmelerini sağlamak.
-
- # Ele Alınan Problemler
-
-**Yorumların Niteliksiz Olması:** Birçok kullanıcı yorumu, başka bir kullanıcının o ürünü satın alma kararına yardımcı olacak bilgi içermemektedir.
-
-**Zaman Kaybı:** Kullanıcılar, nitelikli bilgi içermeyen yorumları okurken gereksiz zaman harcamaktadır.
-
-**Kullanıcı Memnuniyeti:** Kullanıcılar, niteliksiz yorumların yaygınlığından dolayı alışveriş deneyimlerinden memnun kalmamaktadır.
-
-
-Alışveriş sitelerinde kullanıcı yorumlarını nitelikli ve niteliksiz olarak filtreleyerek, kullanıcıların ihtiyaç duydukları bilgilere hızlı ve etkin bir şekilde ulaşmalarını sağlamaktadır. Bu çözüm, kullanıcıların satın alma kararlarını verirken harcadıkları zamanı minimize etmekte ve alışveriş deneyimlerini iyileştirmektedir.
-
-# Çözümün Detayları:
-
-**Yorumların Otomatik Analizi:** Geliştirilen algoritmalar, kullanıcı yorumlarını analiz ederek nitelikli ve niteliksiz olarak sınıflandırır.
-
-**Filtreleme ve Sıralama:** Nitelikli olarak sınıflandırılan yorumlar, kullanıcıya öncelikli olarak gösterilirken, niteliksiz yorumlar arka planda tutulur.
-
-**Kullanıcı Dostu Arayüz:** Kullanıcıların yorumları kolayca filtreleyebilmesi ve önemli bilgilere hızla ulaşabilmesi için sezgisel ve kullanımı kolay bir arayüz sunulur.
-
-
 
 <!-- GETTING STARTED -->
 ## Başlarken
