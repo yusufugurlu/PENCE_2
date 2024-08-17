@@ -7,9 +7,6 @@
 </h3>
 
   <p align="center">
-    PENÇE GİBİ KESKİN, YORUMLARDA SEÇKİN!
-    <br />
-    <br />
     <a href="https://drive.google.com/file/d/1DU5pr-G6OVz4OyrdKOU_pjYYGjipE17B/view?usp=sharing">Demo Videosu</a>
   </p>
 </div>
